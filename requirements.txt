@@ -4,7 +4,6 @@ pandas
 matplotlib
 networkx
 pgmpy
-streamlit
 PyImpetus
 scipy
 seaborn
