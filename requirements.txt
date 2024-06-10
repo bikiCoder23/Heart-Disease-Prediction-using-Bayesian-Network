@@ -1,11 +1,10 @@
+os
+numpy
 pandas
-Pyarrow
 matplotlib
 networkx
 pgmpy
-pygraphviz
-IProgress
-ipywidgets
+streamlit
 PyImpetus
 scipy
 seaborn
