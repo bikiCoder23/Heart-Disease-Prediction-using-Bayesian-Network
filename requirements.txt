@@ -1,0 +1,11 @@
+pandas
+Pyarrow
+matplotlib
+networkx
+pgmpy
+pygraphviz
+IProgress
+ipywidgets
+PyImpetus
+scipy
+seaborn
