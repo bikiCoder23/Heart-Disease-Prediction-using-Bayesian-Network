@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-using-Bayesian-Network
-This repository encompasses the code and report for the "4th year B.Tech Major Project" curriculum at Indian Institute of Engineering Science and Technology, Shibpur.
+This repository encompasses the code and report for the "B.Tech 4th year Major Project" curriculum at Indian Institute of Engineering Science and Technology, Shibpur.
 
 ## Authors
 1. [Bikramjit Saha](www.linkedin.com/in/bikramjit-saha-iiests)
