@@ -2,7 +2,7 @@
 This repository encompasses the code and report for the "B.Tech 4th year Major Project" curriculum at Indian Institute of Engineering Science and Technology, Shibpur.
 
 ## Authors
-1. [Bikramjit Saha](www.linkedin.com/in/bikramjit-saha-iiests)
+1. [Bikramjit Saha](www.linkedin.com/in/bikramjit-saha-pwc)
 2. Sandip Mondal
 3. [Deep Modak](https://www.linkedin.com/in/deep-modak-10b914244)
 
